@@ -1,5 +1,3 @@
-I write hopefully-novel thoughts around machine learning, epistemology, statistics, and programming on [epistem.ink](https://www.epistem.ink). 
+You can find my writing at [cerebralab.com](https://cerebralab.com)
 
-Currently working on an [automatic machine learning tool](https://github.com/mindsdb/lightwood).
-
-My other open-source projects I have are either WIP or unmaintained. [Let me know](mailto:george@cerebralab.com) if you find any of them useful, and that situation might change.
+Some of the OSS I've worked on you can see here, most was lost in the void.
